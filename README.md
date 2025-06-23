@@ -30,7 +30,7 @@ Currently seeking opportunities in software development, data analytics, BI, and
 - 🌐 [Personal Portfolio Website](https://weishiy.github.io/my-resume/)  
   Made with HTML/CSS/JS/React, deployed on GitHub Pages with responsive design.
 
-📂 [See more on my GitHub repositories →](https://github.com/weishiy?tab=repositories)
+📂 [See more on my GitHub repositories](https://github.com/weishiy?tab=repositories)
 
 ---
 
