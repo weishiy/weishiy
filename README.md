@@ -40,7 +40,7 @@ Currently seeking opportunities in software development, data analytics, BI, and
 ---
 
 ### 🌟 Codewars Stats
-[![Codewars](https://www.codewars.com/users/ShiyanWei/badges/large)](https://www.codewars.com/users/ShiyanWei)
+[![Codewars](https://www.codewars.com/users/weishiy/badges/large)](https://www.codewars.com/users/weishiy)
 
 ---
 
